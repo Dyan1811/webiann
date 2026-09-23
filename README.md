@@ -1,2 +1,2 @@
 # webiannf
-Belajar GIT dasar banget
+Belajar GIT dasar banget, ni jangan dihujat ya!

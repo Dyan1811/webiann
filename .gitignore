@@ -1,0 +1,4 @@
+inode_moduls/
+.env
+.vscode/
+*.log
